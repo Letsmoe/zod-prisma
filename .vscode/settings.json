@@ -2,5 +2,9 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "editor.detectIndentation": false,
   "editor.tabSize": 2,
-  "editor.insertSpaces": false
+	"editor.insertSpaces": false,
+	"workbench.colorCustomizations": {
+		"minimap.background": "#00000000",
+		"scrollbar.shadow": "#00000000"
+	}
 }
